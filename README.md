@@ -2,7 +2,7 @@
 
 This is a simple Mood Tracker application built with Streamlit. The purpose of this app is to help users log and reflect on their daily moods. It provides a clean interface to select your current mood and save it with an emoji and timestamp.
 
-🔗 **Live App**: [Mood Tracker Streamlit App](https://rul-estimator-app-lxmtgadfjk7zpmnpceh3kh.streamlit.app/)
+🔗 **Live App**: [Mood Tracker Streamlit App](https://mood-tracker-app-anoushkakadam.streamlit.app/)
 
 ## Features
 
