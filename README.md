@@ -1,16 +1,20 @@
-# 🧠 Mood Tracker App
+# Mood Tracker App 😄📅
 
-This is a simple Streamlit app to log and visualize your daily moods.  
-You can choose from predefined moods with emojis, view your history, and see a chart of how you’ve been feeling over time.
+This is a simple Mood Tracker application built with Streamlit. The purpose of this app is to help users log and reflect on their daily moods. It provides a clean interface to select your current mood and save it with an emoji and timestamp.
+
+🔗 **Live App**: [Mood Tracker Streamlit App](https://rul-estimator-app-lxmtgadfjk7zpmnpceh3kh.streamlit.app/)
 
 ## Features
-- Mood logging with emoji support
-- View full mood history
-- See a frequency chart of all your moods
 
-## Run Locally
+- Log your daily mood with a friendly emoji
+- View your mood entries in a log format
+- Clean and minimal interface
+- Built using Python and Streamlit
+- Saves data locally in a text file
 
-```bash
-pip install -r requirements.txt
-streamlit run mood_tracker_app.py
-```
+## How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/mood-tracker-app.git
+   cd mood-tracker-app
